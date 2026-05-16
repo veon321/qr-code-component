@@ -8,8 +8,6 @@
 
 This is a reliable and clean solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-### Overview
-
 #### The challenge
 
 The challenge was to build this QR code component and get it looking as close to the design as possible using HTML and CSS.
@@ -19,22 +17,18 @@ The challenge was to build this QR code component and get it looking as close to
 - **Solution URL:** [https://github.com/veon321/qr-code-component](https://github.com/veon321/qr-code-component)
 - **Live Site URL:** [https://TWOJA_NAZWA_Z_GITHUB.github.io/NAZWA_REPOZYTORIUM/](https://TWOJA_NAZWA_Z_GITHUB.github.io/NAZWA_REPOZYTORIUM/)
 
-### My process
-
 #### Built with
 
-- Semantyczny HTML5
+- Semantic HTML5
 - Flexbox
-- Podejście Mobile-first
-- Czcionka Google Fonts (Outfit)
+- Mobile-first workflow
+- Google Fonts (Outfit) (Outfit)
 
 ---
 
 ## PL
 
 To jest moje czyste i responsywne rozwiązanie zadania [QR code component z portalu Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
-
-### Przegląd
 
 #### Zadanie
 
@@ -44,8 +38,6 @@ Zadanie polegało na zakodowaniu komponentu z kodem QR tak, aby wyglądał jak n
 
 - **Solution URL:** [https://github.com/veon321/qr-code-component](https://github.com/veon321/qr-code-component)
 - **Live Site URL:** [https://TWOJA_NAZWA_Z_GITHUB.github.io/NAZWA_REPOZYTORIUM/](https://TWOJA_NAZWA_Z_GITHUB.github.io/NAZWA_REPOZYTORIUM/)
-
-### Mój proces
 
 #### Użyte technologie
 
