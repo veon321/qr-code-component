@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 0;
+}
+
+#plansza {
+    padding: 16px;
+    width: 100%;
+    max-width: 320px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 20px;
+    box-shadow: 0 15px 30px rgba(0,0,0,0.08);
+    text-align: center;
+}
+
+#plansza h1 {
+    color: hsl(218, 44%, 22%);
+    font-size: 22px;
+    font-weight: 700;
+    margin: 24px 0 16px 0;
+}
+
+#plansza p {
+    color: hsl(216, 15%, 48%);
+    font-weight: 400;
+    line-height: 1.4;
+    padding: 5px;
+}
+
+.qr-kod {
+    width: 100%;
+    border-radius: 12px;
+}
