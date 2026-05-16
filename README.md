@@ -15,7 +15,7 @@ The challenge was to build this QR code component and get it looking as close to
 #### Links
 
 - **Solution URL:** [https://github.com/veon321/qr-code-component](https://github.com/veon321/qr-code-component)
-- **Live Site URL:** [https://TWOJA_NAZWA_Z_GITHUB.github.io/NAZWA_REPOZYTORIUM/](https://TWOJA_NAZWA_Z_GITHUB.github.io/NAZWA_REPOZYTORIUM/)
+- **Live Site URL:** [https://veon321.github.io/qr-code-component/](https://veon321.github.io/qr-code-component/)
 
 #### Built with
 
@@ -37,7 +37,7 @@ Zadanie polegało na zakodowaniu komponentu z kodem QR tak, aby wyglądał jak n
 #### Linki
 
 - **Solution URL:** [https://github.com/veon321/qr-code-component](https://github.com/veon321/qr-code-component)
-- **Live Site URL:** [https://TWOJA_NAZWA_Z_GITHUB.github.io/NAZWA_REPOZYTORIUM/](https://TWOJA_NAZWA_Z_GITHUB.github.io/NAZWA_REPOZYTORIUM/)
+- **Live Site URL:** [https://veon321.github.io/qr-code-component/](https://veon321.github.io/qr-code-component)
 
 #### Użyte technologie
 
